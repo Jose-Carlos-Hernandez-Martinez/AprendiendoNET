@@ -1,0 +1,14 @@
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\bin\Debug\net10.0\AprendiendoNET.exe
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\bin\Debug\net10.0\AprendiendoNET.deps.json
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\bin\Debug\net10.0\AprendiendoNET.runtimeconfig.json
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\bin\Debug\net10.0\AprendiendoNET.dll
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\bin\Debug\net10.0\AprendiendoNET.pdb
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.AssemblyInfoInputs.cache
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.AssemblyInfo.cs
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.csproj.CoreCompileInputs.cache
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.dll
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\refint\AprendiendoNET.dll
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.pdb
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.genruntimeconfig.cache
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\ref\AprendiendoNET.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|c:\\users\\jchernandezm\\onedrive - powerfleet\\documents\\net\\aprendiendonet\\aprendiendonet\\02_variables\\ejercicio08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|solutionrelative:aprendiendonet\\02_variables\\ejercicio08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|c:\\users\\jchernandezm\\onedrive - powerfleet\\documents\\net\\aprendiendonet\\aprendiendonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|solutionrelative:aprendiendonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|c:\\users\\jchernandezm\\onedrive - powerfleet\\documents\\net\\aprendiendonet\\aprendiendonet\\02_variables\\ejercicio06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|solutionrelative:aprendiendonet\\02_variables\\ejercicio06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|c:\\users\\jchernandezm\\onedrive - powerfleet\\documents\\net\\aprendiendonet\\aprendiendonet\\02_variables\\ejercicio07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|solutionrelative:aprendiendonet\\02_variables\\ejercicio07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|c:\\users\\jchernandezm\\onedrive - powerfleet\\documents\\net\\aprendiendonet\\aprendiendonet\\02_variables\\ejercicio05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F651D224-0F8B-4553-A6CF-AC2B3432E67A}|AprendiendoNET\\AprendiendoNET.csproj|solutionrelative:aprendiendonet\\02_variables\\ejercicio05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio08.cs",
+              "DocumentMoniker": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\02_Variables\\Ejercicio08.cs",
+              "RelativeDocumentMoniker": "AprendiendoNET\\02_Variables\\Ejercicio08.cs",
+              "ToolTip": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\02_Variables\\Ejercicio08.cs",
+              "RelativeToolTip": "AprendiendoNET\\02_Variables\\Ejercicio08.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T15:33:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio07.cs",
+              "DocumentMoniker": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\02_Variables\\Ejercicio07.cs",
+              "RelativeDocumentMoniker": "AprendiendoNET\\02_Variables\\Ejercicio07.cs",
+              "ToolTip": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\02_Variables\\Ejercicio07.cs",
+              "RelativeToolTip": "AprendiendoNET\\02_Variables\\Ejercicio07.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T15:25:16.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio05.cs",
+              "DocumentMoniker": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\02_Variables\\Ejercicio05.cs",
+              "RelativeDocumentMoniker": "AprendiendoNET\\02_Variables\\Ejercicio05.cs",
+              "ToolTip": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\02_Variables\\Ejercicio05.cs",
+              "RelativeToolTip": "AprendiendoNET\\02_Variables\\Ejercicio05.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T14:42:35.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio06.cs",
+              "DocumentMoniker": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\02_Variables\\Ejercicio06.cs",
+              "RelativeDocumentMoniker": "AprendiendoNET\\02_Variables\\Ejercicio06.cs",
+              "ToolTip": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\02_Variables\\Ejercicio06.cs",
+              "RelativeToolTip": "AprendiendoNET\\02_Variables\\Ejercicio06.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T14:33:52.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\Program.cs",
+              "RelativeDocumentMoniker": "AprendiendoNET\\Program.cs",
+              "ToolTip": "C:\\Users\\jchernandezm\\OneDrive - Powerfleet\\Documents\\NET\\AprendiendoNET\\AprendiendoNET\\Program.cs",
+              "RelativeToolTip": "AprendiendoNET\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T09:41:58.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
