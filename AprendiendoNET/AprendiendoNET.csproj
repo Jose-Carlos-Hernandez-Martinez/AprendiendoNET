@@ -7,4 +7,20 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="09_POO\" />
+    <Folder Include="10_ColeccionesYDiccionarios\" />
+    <Folder Include="11_ManejoDeFicheros\" />
+    <Folder Include="12_GestionDeExcepciones\" />
+    <Folder Include="13_DesarrolloWeb_AspNetCore\" />
+    <Folder Include="14_AccesoDatos_EFCore\" />
+    <Folder Include="15_SesionesYCookies\" />
+    <Folder Include="16_ProgramacionAsincrona\" />
+    <Folder Include="17_LINQ\" />
+    <Folder Include="18_InyeccionDeDependencias\" />
+    <Folder Include="19_Arquitectura_SOLID\" />
+    <Folder Include="20_UnitTesting\" />
+    <Folder Include="21_Seguridad_Identity_JWT\" />
+  </ItemGroup>
+
 </Project>

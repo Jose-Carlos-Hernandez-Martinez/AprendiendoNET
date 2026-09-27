@@ -1,42 +1,88 @@
 ﻿
-//using AprendiendoNET._01_SalidaDeDatos;
-//using AprendiendoNET._02_Variables;
-using AprendiendoNET._01_SalidaDeDatos;
-using AprendiendoNET._03_LecturaDeNumeros;
 using System;
 
-namespace HelloWorld
+namespace AprendiendoNET
 {
     class Program
     {
         static void Main(string[] args) 
         {
-            /*
-                Capitulo 1 
-            */
-            //Ejercicio01.Ejecutar();
-            //Ejercicio02.Ejecutar();
-            //Ejercicio03.Ejecutar();
-            //Ejercicio04.Ejecutar();
+            string[] caps = {   "01_SalidaDeDatos", 
+                                "02_Variables", 
+                                "03_LecturaDeNumeros", 
+                                "04_SentenciaCondicional_if_switch", 
+                                "05_Bucles", 
+                                "06_NumerosAleatorios",
+                                "07_Arrays",
+                                "08_Funciones",
+                                "09_POO",
+                                "10_ColeccionesYDiccionarios",
+                                "11_ManejoDeFIcheros",
+                                "12_GestionDeExcepciones",
+                                "13_DesarrolloWeb_AspNetCore",
+                                "14_AccesoDatos_EFCore",
+                                "15_SesionesYCookies",
+                                "16_ProgramacionAsincrona",
+                                "17_LINQ",
+                                "18_InyeccionDeDependencias",
+                                "19_Arquitectura_SOLID",
+                                "20_UnitTesting",
+                                "21_Seguridad_Identity_JWT"};
+            while (true) 
+            {
 
-            /*
-                Capitulo 2 
-            */
-            //Ejercicio01.Ejecutar();
-            //Ejercicio02.Ejecutar();
-            //Ejercicio03.Ejecutar();
-            //Ejercicio04.Ejecutar();
-            //Ejercicio05.Ejecutar();
-            //Ejercicio06.Ejecutar();
-            //Ejercicio07.Ejecutar();
-            //Ejercicio08.Ejecutar();
 
-            /*
-                Capitulo 3 
-            */
-            //Ejercicio01.Ejecutar();
-            Ejercicio02.Ejecutar();
+                Console.WriteLine("Ingresa el capitulo");
 
+                for (int i = 0; i < caps.Length; i++)
+                {
+                    Console.WriteLine(caps[i]);
+                }
+
+
+                if (int.TryParse(Console.ReadLine(), out int numCategoria))
+                {
+                    switch (numCategoria)
+                    {
+                        case 1:
+                                Console.WriteLine("Seccion escogida : 01_SalidaDeDatos");
+                                AprendiendoNET._01_SalidaDeDatos.MenuCapitulo.Ejecutar();
+                            break;
+
+                        case 2:
+                            break;
+
+                        case 3:
+                            break;
+
+                        case 4:
+                            break;
+
+                        case 5:
+                            break;
+
+                        case 6:
+                            break;
+
+                        case 7:
+                            break;
+
+                        case 8:
+                            break;
+
+                        case 9:
+                            break;
+                    }
+
+                }
+                else
+                {
+
+                }
+
+
+                
+            }
         }
     }
 }

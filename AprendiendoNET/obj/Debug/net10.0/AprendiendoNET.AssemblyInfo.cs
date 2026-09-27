@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AprendiendoNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8daf1c7b850d99db25e13631624bccff24ccb77a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AprendiendoNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AprendiendoNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

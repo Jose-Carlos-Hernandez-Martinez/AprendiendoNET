@@ -12,3 +12,4 @@ C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\Aprendi
 C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.pdb
 C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.genruntimeconfig.cache
 C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\ref\AprendiendoNET.dll
+C:\Users\jchernandezm\OneDrive - Powerfleet\Documents\NET\AprendiendoNET\AprendiendoNET\obj\Debug\net10.0\AprendiendoNET.sourcelink.json
